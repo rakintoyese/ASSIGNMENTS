@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login Page</title>
+  </head>
+  <body>
+    <form method="post" action="success.html">
+      <input type="login" value="login">
+    </form>
+    
+    <header>
+      <table border="5">
+        <tr>
+          <td>MY LOGIN PAGE</td>
+        </tr>
+      </table>
+    </header>
+    <center><h1>WELCOME BACK</h1></center>
+    <center><h3>LOGIN HERE</h3></center>
+    <table>
+    <center> <p> <div>
+        <form action="email">Email</form>
+        <input type="email" name="email" id="email" />
+      </div></p></center>
+     <center> <div>
+        <form action="">
+          <label for="Pwd">Password</label>
+          <input type="password" name="pwd" id="pwd"/>
+        </form>
+      </div></center>
+       <center><a href="success.html" class="Login">Login</a></center>
+    <table>
+    </table>
+  </body>
+</html>
+
