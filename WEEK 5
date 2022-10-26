@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ASSIGNMENT</title>
+    <link rel="stylesheet" href="flex-three-columns.css" />
+  </head>
+  <body>
+    <div class="flex-container">
+      <div>
+        <h1>MY FLEXBOX LAYOUT</h1>
+      </div>
+      <div>
+        <h2>Lets flex together</h2>
+        <p>join me as i celebrate my journey in front end</p>
+      </div>
+      <div class="bottom-content">
+        <h2>Akintoyese Rukayat Olaitan</h2>
+        <br />
+        your front end developer Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Itaque nulla incidunt rem soluta distinctio nihil
+        nesciunt voluptas dolorem est odio deserunt veniam quis hic, labore
+        animi! Saepe porro perspiciatis accusamus!
+      </div>
+      <div class="second-bottom">
+        <h2>lets train you on your journey</h2>
+        <p>we are affordable</p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Et nesciunt
+          ipsa nisi aperiam optio illo rerum eaque possimus. Reiciendis odio
+          assumenda illum rerum quas nobis explicabo accusantium voluptatum
+          quibusdam! Maxime?
+        </p>
+        <br />
+        <div><button>sign up</button> for free</div>
+      </div>
+    </div>
+  </body>
+</html>
